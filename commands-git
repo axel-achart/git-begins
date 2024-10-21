@@ -9,8 +9,12 @@ $ git push
 // Commande pour Pull
 $ git pull
 
-// Command pour créer une branche
+// Commande pour créer une branche
 $ git branch <nom-de-la-branche>
 
-// Command pour basculer de branche
+// Commande pour basculer de branche
 $ git checkout <nom-de-la-branche>
+
+
+// (En plus) Commande pour supprimé une branche
+$ git branch -d <nom-de-la-branche>
