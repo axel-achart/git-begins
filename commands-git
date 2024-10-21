@@ -1,0 +1,10 @@
+// Commande de clonage
+$ git clone <repository-url>
+
+// Commandes pour Push
+$ git add .
+$ git commit -m "Message"
+$ git push
+
+// Commande pour Pull
+$ git pull
